@@ -2,25 +2,54 @@
   {
     "Title": "Pizzeria da Gigi",
     "Folder": "pizzeria_da_gigi",
-    "Facebook":"287913778291736",
-    "LastUpdate": "21/11/2017"
+    "Facebook": "287913778291736",
+    "LastUpdate": "21/11/2017",
+    "location": {
+      "city": "Desio",
+      "street": "Via Monsignor Cattaneo, 9",
+      "zip": "20832"
+    }
   },
   {
     "Title": "Il Tramonto",
     "Folder": "il_tramonto",
-    "Facebook":"ristorantepizzeriailtramonto",
-    "LastUpdate": "24/11/2017"
+    "Facebook": "ristorantepizzeriailtramonto",
+    "LastUpdate": "24/11/2017",
+    "location": {
+      "city": "Desio",
+      "country": "Italy",
+      "latitude": 45.619514353333,
+      "longitude": 9.2160755701587,
+      "street": "Via XXV Aprile, 5",
+      "zip": "42124"
+    }
   },
   {
     "Title": "Pizzaland",
     "Folder": "pizzaland",
-    "Facebook":"pizzeriadesio",
-    "LastUpdate": "24/11/2017"
+    "Facebook": "pizzeriadesio",
+    "LastUpdate": "24/11/2017",
+    "location": {
+      "city": "Desio",
+      "country": "Italy",
+      "latitude": 45.6122299,
+      "longitude": 9.20496,
+      "street": "via garibaldi n.164",
+      "zip": "20832"
+    }
   },
   {
     "Title": "X Pizza",
     "Folder": "x_pizza",
-    "Facebook":"XPIZZA.snc",
-    "LastUpdate": "29/11/2017"
-  }   
+    "Facebook": "XPIZZA.snc",
+    "LastUpdate": "29/11/2017",
+    "location": {
+      "city": "Desio",
+      "country": "Italy",
+      "latitude": 45.625302228829,
+      "longitude": 9.2071742381389,
+      "street": "Corso Italia, 189",
+      "zip": "20832"
+    }
+  }
 ]
