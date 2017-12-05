@@ -7,7 +7,9 @@
     "location": {
       "city": "Desio",
       "street": "Via Monsignor Cattaneo, 9",
-      "zip": "20832"
+      "zip": "20832",
+      "latitude": 45.617341,
+      "longitude": 9.205473      
     }
   },
   {
