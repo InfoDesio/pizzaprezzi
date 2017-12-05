@@ -51,5 +51,19 @@
       "street": "Corso Italia, 189",
       "zip": "20832"
     }
+  },
+  {
+    "Title": "Casa da Vinci",
+    "Folder": "casa_da_vinci",
+    "Facebook": "1885956861671927",
+    "LastUpdate": "01/12/2017",
+"location": {
+    "city": "Desio",
+    "country": "Italy",
+    "latitude": 45.6297213,
+    "longitude": 9.205164,
+    "street": "Via Milano, 365",
+    "zip": "20832"
+  }
   }
 ]
