@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Capitan Pizzurger",
+    "Folder": "capitan_pizzurger",
+    "Facebook": "capitanpizzurger",
+    "LastUpdate": "01/12/2017",
+  "location": {
+    "city": "Desio",
+    "country": "Italy",
+    "latitude": 45.62747,
+    "longitude": 9.20197,
+    "street": "Via Alcide De Gasperi 11/A",
+    "zip": "20832"
+  }
+  },  
+  {
     "Title": "Casa da Vinci",
     "Folder": "casa_da_vinci",
     "Facebook": "1885956861671927",
