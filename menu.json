@@ -4,15 +4,39 @@
     "Folder": "capitan_pizzurger",
     "Facebook": "capitanpizzurger",
     "LastUpdate": "01/12/2017",
-  "location": {
-    "city": "Desio",
-    "country": "Italy",
-    "latitude": 45.62747,
-    "longitude": 9.20197,
-    "street": "Via Alcide De Gasperi 11/A",
-    "zip": "20832"
-  }
-  },  
+    "location": {
+      "city": "Desio",
+      "country": "Italy",
+      "latitude": 45.62747,
+      "longitude": 9.20197,
+      "street": "Via Alcide De Gasperi 11/A",
+      "zip": "20832"
+    },
+    "hours": {
+      "tue_1_open": "12:00",
+      "tue_1_close": "15:00",
+      "tue_2_open": "18:00",
+      "tue_2_close": "22:00",
+      "wed_1_open": "12:00",
+      "wed_1_close": "15:00",
+      "wed_2_open": "18:00",
+      "wed_2_close": "22:00",
+      "thu_1_open": "12:00",
+      "thu_1_close": "15:00",
+      "thu_2_open": "18:00",
+      "thu_2_close": "22:00",
+      "fri_1_open": "12:00",
+      "fri_1_close": "15:00",
+      "fri_2_open": "18:00",
+      "fri_2_close": "22:00",
+      "sat_1_open": "12:00",
+      "sat_1_close": "15:00",
+      "sat_2_open": "18:00",
+      "sat_2_close": "22:00",
+      "sun_1_open": "18:00",
+      "sun_1_close": "22:00"
+    }
+  },
   {
     "Title": "Casa da Vinci",
     "Folder": "casa_da_vinci",
@@ -25,6 +49,32 @@
       "longitude": 9.205164,
       "street": "Via Milano, 365",
       "zip": "20832"
+    },
+    "hours": {
+      "tue_1_open": "11:30",
+      "tue_1_close": "14:30",
+      "tue_2_open": "17:30",
+      "tue_2_close": "22:30",
+      "wed_1_open": "11:30",
+      "wed_1_close": "14:30",
+      "wed_2_open": "17:30",
+      "wed_2_close": "22:30",
+      "thu_1_open": "11:30",
+      "thu_1_close": "14:30",
+      "thu_2_open": "17:30",
+      "thu_2_close": "22:30",
+      "fri_1_open": "11:30",
+      "fri_1_close": "14:30",
+      "fri_2_open": "17:30",
+      "fri_2_close": "22:30",
+      "sat_1_open": "11:30",
+      "sat_1_close": "14:30",
+      "sat_2_open": "17:00",
+      "sat_2_close": "22:30",
+      "sun_1_open": "11:30",
+      "sun_1_close": "14:30",
+      "sun_2_open": "17:00",
+      "sun_2_close": "22:30"
     }
   },
   {
@@ -39,6 +89,36 @@
       "longitude": 9.2160755701587,
       "street": "Via XXV Aprile, 5",
       "zip": "42124"
+    },
+    "hours": {
+      "mon_1_open": "10:00",
+      "mon_1_close": "15:00",
+      "tue_1_open": "10:00",
+      "tue_1_close": "15:00",
+      "wed_1_open": "10:00",
+      "wed_1_close": "15:00",
+      "thu_1_open": "10:00",
+      "thu_1_close": "15:00",
+      "fri_1_open": "10:00",
+      "fri_1_close": "15:00",
+      "sat_1_open": "10:00",
+      "sat_1_close": "15:00",
+      "sun_1_open": "10:00",
+      "sun_1_close": "15:00",
+      "mon_2_open": "18:00",
+      "mon_2_close": "23:45",
+      "tue_2_open": "18:00",
+      "tue_2_close": "23:45",
+      "wed_2_open": "18:00",
+      "wed_2_close": "23:45",
+      "thu_2_open": "18:00",
+      "thu_2_close": "23:45",
+      "fri_2_open": "18:00",
+      "fri_2_close": "23:45",
+      "sat_2_open": "18:00",
+      "sat_2_close": "23:45",
+      "sun_2_open": "18:00",
+      "sun_2_close": "23:45"
     }
   },
   {
@@ -67,6 +147,30 @@
       "longitude": 9.20496,
       "street": "via garibaldi n.164",
       "zip": "20832"
+    },
+    "hours": {
+      "tue_1_open": "11:30",
+      "tue_1_close": "14:00",
+      "tue_2_open": "18:00",
+      "tue_2_close": "22:00",
+      "wed_1_open": "11:30",
+      "wed_1_close": "14:00",
+      "wed_2_open": "18:00",
+      "wed_2_close": "22:00",
+      "thu_1_open": "11:30",
+      "thu_1_close": "14:00",
+      "thu_2_open": "18:00",
+      "thu_2_close": "22:00",
+      "fri_1_open": "11:30",
+      "fri_1_close": "14:00",
+      "fri_2_open": "18:00",
+      "fri_2_close": "22:00",
+      "sat_1_open": "11:30",
+      "sat_1_close": "14:00",
+      "sat_2_open": "18:00",
+      "sat_2_close": "22:00",
+      "sun_1_open": "18:00",
+      "sun_1_close": "22:00"
     }
   },
   {
@@ -80,6 +184,28 @@
       "zip": "20832",
       "latitude": 45.617341,
       "longitude": 9.205473
+    },
+    "hours": {
+      "mon_1_open": "11:00",
+      "mon_1_close": "14:00",
+      "mon_2_open": "18:00",
+      "mon_2_close": "22:00",
+      "wed_1_open": "11:00",
+      "wed_1_close": "14:00",
+      "wed_2_open": "18:00",
+      "wed_2_close": "22:00",
+      "thu_1_open": "11:00",
+      "thu_1_close": "14:00",
+      "thu_2_open": "18:00",
+      "thu_2_close": "22:00",
+      "fri_1_open": "11:00",
+      "fri_1_close": "14:00",
+      "fri_2_open": "18:00",
+      "fri_2_close": "22:00",
+      "sat_1_open": "18:00",
+      "sat_1_close": "22:00",
+      "sun_1_open": "18:00",
+      "sun_1_close": "22:00"
     }
   },
   {
@@ -94,6 +220,28 @@
       "longitude": 9.19605,
       "street": "via Ferravilla 23",
       "zip": "20832"
+    },
+    "hours": {
+      "mon_1_open": "10:00",
+      "mon_1_close": "13:45",
+      "wed_1_open": "10:00",
+      "wed_1_close": "13:45",
+      "thu_1_open": "10:00",
+      "thu_1_close": "13:45",
+      "fri_1_open": "10:00",
+      "fri_1_close": "13:45",
+      "sat_1_open": "17:00",
+      "sat_1_close": "22:00",
+      "sun_1_open": "17:00",
+      "sun_1_close": "22:00",
+      "mon_2_open": "17:00",
+      "mon_2_close": "22:00",
+      "wed_2_open": "17:00",
+      "wed_2_close": "22:00",
+      "thu_2_open": "17:00",
+      "thu_2_close": "22:00",
+      "fri_2_open": "17:00",
+      "fri_2_close": "22:00"
     }
   },
   {
@@ -108,6 +256,30 @@
       "longitude": 9.2071742381389,
       "street": "Corso Italia, 189",
       "zip": "20832"
+    },
+    "hours": {
+      "tue_1_open": "11:30",
+      "tue_1_close": "13:30",
+      "wed_1_open": "11:30",
+      "wed_1_close": "13:30",
+      "thu_1_open": "11:30",
+      "thu_1_close": "13:30",
+      "fri_1_open": "11:30",
+      "fri_1_close": "13:30",
+      "sat_1_open": "11:30",
+      "sat_1_close": "13:30",
+      "sun_1_open": "18:00",
+      "sun_1_close": "21:30",
+      "tue_2_open": "18:00",
+      "tue_2_close": "21:30",
+      "wed_2_open": "18:00",
+      "wed_2_close": "21:30",
+      "thu_2_open": "18:00",
+      "thu_2_close": "21:30",
+      "fri_2_open": "18:00",
+      "fri_2_close": "21:30",
+      "sat_2_open": "18:00",
+      "sat_2_close": "21:30"
     }
   }
 ]
