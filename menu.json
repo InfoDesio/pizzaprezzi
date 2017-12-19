@@ -206,6 +206,11 @@
       "sat_1_close": "22:00",
       "sun_1_open": "18:00",
       "sun_1_close": "22:00"
+    },
+    "offer": {
+      "mon": "Sera 3 margherite Euro 10,00",
+      "wed": "Sera tutte le pizze Euro 4,5",
+      "thu": "Sera tutte le pizze un euro in meno rispetto al listino"
     }
   },
   {
