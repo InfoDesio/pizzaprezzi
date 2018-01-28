@@ -1,5 +1,45 @@
 [
   {
+    "Title": "Al Presidente",
+    "Folder": "al_presidente",
+    "Facebook": "Alpresidentedesio",
+    "LastUpdate": "25/01/2018",
+    "location": {
+      "city": "Desio",
+      "country": "Italy",
+      "latitude": 45.61863,
+      "longitude": 9.19762,
+      "street": "Via G. Pallavicini 42",
+      "zip": "20832"
+    },
+    "hours": {
+      "mon_1_open": "17:30",
+      "mon_1_close": "20:30",
+      "tue_1_open": "11:30",
+      "tue_1_close": "14:00",
+      "wed_1_open": "11:30",
+      "wed_1_close": "14:00",
+      "thu_1_open": "11:30",
+      "thu_1_close": "14:00",
+      "fri_1_open": "11:30",
+      "fri_1_close": "14:00",
+      "sat_1_open": "11:30",
+      "sat_1_close": "14:00",
+      "sun_1_open": "17:30",
+      "sun_1_close": "21:30",
+      "tue_2_open": "17:30",
+      "tue_2_close": "21:30",
+      "wed_2_open": "17:30",
+      "wed_2_close": "21:30",
+      "thu_2_open": "17:30",
+      "thu_2_close": "21:30",
+      "fri_2_open": "17:30",
+      "fri_2_close": "21:30",
+      "sat_2_open": "17:30",
+      "sat_2_close": "21:30"
+    }
+  },
+  {
     "Title": "Capitan Pizzurger",
     "Folder": "capitan_pizzurger",
     "Facebook": "capitanpizzurger",
