@@ -1,5 +1,6 @@
 [
   {
+    "Type": "Pizzeria",
     "Title": "Al Presidente",
     "Folder": "al_presidente",
     "Facebook": "Alpresidentedesio",
@@ -40,6 +41,7 @@
     }
   },
   {
+    "Type": "Pizzeria",
     "Title": "Capitan Pizzurger",
     "Folder": "capitan_pizzurger",
     "Facebook": "capitanpizzurger",
@@ -78,6 +80,7 @@
     }
   },
   {
+    "Type": "Pizzeria",
     "Title": "Casa da Vinci",
     "Folder": "casa_da_vinci",
     "Facebook": "1885956861671927",
@@ -118,6 +121,7 @@
     }
   },
   {
+    "Type": "Pizzeria",
     "Title": "Il Poeta",
     "Folder": "il_poeta",
     "Facebook": "1676248122645459",
@@ -132,6 +136,7 @@
     }
   },
   {
+    "Type": "Pizzeria",
     "Title": "Il Tramonto",
     "Folder": "il_tramonto",
     "Facebook": "ristorantepizzeriailtramonto",
@@ -176,6 +181,7 @@
     }
   },
   {
+    "Type": "Pizzeria",
     "Title": "La Teglia",
     "Folder": "la_teglia",
     "Facebook": "557802954393308",
@@ -190,6 +196,7 @@
     }
   },
   {
+    "Type": "Pizzeria",
     "Title": "Pizzaland",
     "Folder": "pizzaland",
     "Facebook": "pizzeriadesio",
@@ -228,6 +235,7 @@
     }
   },
   {
+    "Type": "Pizzeria",
     "Title": "Pizzeria da Gigi",
     "Folder": "pizzeria_da_gigi",
     "Facebook": "287913778291736",
@@ -268,6 +276,7 @@
     }
   },
   {
+    "Type": "Pizzeria",
     "Title": "Pizzeria StRapizzami",
     "Folder": "strapizzami",
     "Facebook": "StRapizzami23",
@@ -306,6 +315,7 @@
     }
   },
   {
+    "Type": "Pizzeria",
     "Title": "Pummaro'",
     "Folder": "pummaro",
     "Facebook": "426291680797693",
@@ -342,6 +352,7 @@
     }
   },
   {
+    "Type": "Pizzeria",
     "Title": "X Pizza",
     "Folder": "x_pizza",
     "Facebook": "XPIZZA.snc",
